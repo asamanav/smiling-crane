@@ -1,8 +1,6 @@
 ---
 title: JOSH IS BEST? FIND OUT MORE!
-subtitle: >-
-  The way I spend time out in nature can affect how much my physical and mental
-  health will recharge and how I benefit from it.
+subtitle: 'Josh may or may not be the best, according to studies.'
 excerpt: Don't do that Josh!!!
 date: '2019-03-24'
 thumb_img_path: /images/curo.png
