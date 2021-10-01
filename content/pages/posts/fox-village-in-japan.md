@@ -1,5 +1,5 @@
 ---
-title: Fox Village In Japan
+title: DEV SQUAD WUZ HERE!!!!
 subtitle: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries.
