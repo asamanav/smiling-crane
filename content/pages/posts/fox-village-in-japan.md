@@ -5,7 +5,7 @@ subtitle: >-
   sanctuaries.
 excerpt: APPARENTLY WE'RE THE BEST?!!
 date: '2020-01-11'
-thumb_img_path: /images/214.jpg
+thumb_img_path: /images/json harem.png
 thumb_img_alt: A red fox sitting on a meadow
 content_img_path: images/10.jpg
 seo:
