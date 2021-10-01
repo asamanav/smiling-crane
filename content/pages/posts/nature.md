@@ -5,7 +5,7 @@ subtitle: >-
   health will recharge and how I benefit from it.
 excerpt: Don't do that Josh!!!
 date: '2019-03-24'
-thumb_img_path: images/4.jpg
+thumb_img_path: /images/curo.png
 thumb_img_alt: A man fishing in a lake
 hide_header: true
 seo:
