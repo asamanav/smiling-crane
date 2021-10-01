@@ -1,5 +1,5 @@
 ---
-title: Basic Rules For Walking In The Mountains
+title: Camping Fever
 excerpt: Kimchi gazing off into the distance
 date: '2019-04-09'
 thumb_img_path: /images/kimchi.png
