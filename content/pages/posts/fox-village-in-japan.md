@@ -1,5 +1,5 @@
 ---
-title: DEV SQUAD WUZ HERE!!!!
+title: DEV SQUAD WUZ HERE!!!! FURSTTTT!!!
 subtitle: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries.
